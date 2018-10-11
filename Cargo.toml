@@ -1,0 +1,8 @@
+[package]
+name = "crossbeam-heartbeat"
+version = "0.1.0"
+authors = ["Jeff Hajewski <jeff.hajewski@gmail.com>"]
+
+[dependencies]
+crossbeam = "0.4"
+crossbeam-channel = "0.2"
